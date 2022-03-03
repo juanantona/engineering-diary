@@ -1,41 +1,10 @@
-Prerrequisitos 
+# Docs
+- #### [React Beta Documentation](https://beta.reactjs.org/)
+- #### [Getting to Know… React](https://aarontgrogg.com/blog/2022/01/06/getting-to-know-react/)
 
 
-https://beta.reactjs.org/
-
-https://www.taniarascia.com/getting-started-with-react/
-
-https://aarontgrogg.com/blog/2022/01/06/getting-to-know-react/
-
-
--
-https://www.youtube.com/watch?v=Ke90Tje7VS0
-
-
-useEffect
-
-Dan Abramov
-- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
-
-
-
-
-#### UseState
-Post de Kent C. Dodds donde se recomienda restringir el numero de variables de estado haciendo que las otras dependan de ellas: [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it)
-
-#### Data Fetching
- React issuse discussion where Dan abramov: https://github.com/facebook/react/issues/14326
-
-[# How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
-
-
-
-
- 
- 
-
-
- ### [Props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+# Props vs state
+ #### [Props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
  
  Se podría decir que props + state son los datos de entrada para la función render() de un Componente
 
@@ -52,9 +21,7 @@ Un Componente no puede cambiar sus props, pero es responsable de juntar los prop
 
 El estado es opcional. Dado que el estado aumenta la complejidad y reduce la previsibilidad, es preferible un componente sin estado. Aunque está claro que no puedes prescindir del estado en una aplicación interactiva, deberías evitar tener demasiados componentes con estado.
 
-### Hooks 
-https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
-
+# [Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 Por qué hooks? porque con clases era imposible extraer el manejp del estado de un componente para fuse reusable por otros componentes
 
 Los hooks son funciones que permiten "hook into" el estado de React y las características del ciclo de vida de los componentes de la función
@@ -69,15 +36,8 @@ Los Hooks proporcionan acceso a escotillas de escape imperativas y no requieren 
 
 Los Hooks se diseñaron pensando en el tipado estática. Como son funciones, son más fáciles de escribir correctamente que los patrones como los componentes de orden superior
 
-
-### useState
-
-recomendamos dividir el estado en múltiples variables de estado en función de los valores que tienden a cambiar juntos.
-
 ### useEffect
-Control component side effects with React useEffect
-
-[A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) by Dan Abramov
+#### [A Complete Guide to useEffect by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 lo más potente de useEffect es que te permite agrupar la logica en differentes useEffects de tal forma que no este mezclada dentro de los mismos métodos de manejo del ciclo de vida en componentes basados en clases. Esto ayuda a evitar bugs e inconsistencias
 
@@ -86,6 +46,18 @@ En muchos casos no es posible dividir estos componentes en otros más pequeños 
 También puede optar por gestionar el estado local del componente con un reductor para hacerlo más predecible.
 
 Las clases también presentan problemas para las herramientas actuales. Por ejemplo, las clases no se minifican muy bien, y hacen que la recarga en caliente sea escasa y poco fiable. Queremos presentar una API que haga más probable que el código se mantenga en el camino de la optimización.
+
+### UseState
+Post de Kent C. Dodds donde se recomienda restringir el numero de variables de estado haciendo que las otras dependan de ellas: [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it)
+
+
+### useRef
+https://opinionatedreact.com/useRef.pdf
+
+# Data Fetching
+ React issuse discussion where Dan abramov: https://github.com/facebook/react/issues/14326
+
+#### [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 
 ### React Server Components

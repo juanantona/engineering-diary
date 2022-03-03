@@ -1,5 +1,5 @@
 
-¿Qué puedo aplicar primero en el trabajo? 
+- [ ] ¿Qué puedo aplicar primero en el trabajo? 
 ¿O en un side-project? 
 ¿Cómo lo haria yo?
 ¿Dónde estoy más flojo?

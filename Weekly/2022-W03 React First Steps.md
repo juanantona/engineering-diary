@@ -1,12 +1,3 @@
-Empecé con el post de Kent C. Dodds: [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
-
-También como introducción, el de Tánia Rascia es interesante [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/)
-
-Pero requería profundizar en unos cuantos conceptos previos así que salte a la documentacion de [React](https://reactjs.org/) directamente.
-
-Recomiendo ver el video de React de la ReactConf 2018 donde se presentaron los Hooks. Tanto Dan Abramov como Ryan Florence 
-
-
 ### ¿Qué he aprendido?
 # REACT
 React es una libreria que permite construir interfaces de usuario dinámicos, tal y como la describe la propia documentación.
@@ -30,6 +21,8 @@ En React, todos los componentes expresan su UI dentro de las funciones de render
  Inmutabilidad: Evitar la mutación directa de los datos nos permite mantener intactas las versiones anteriores de la historia del juego y reutilizarlas más adelante.
  
  El principal beneficio de la inmutabilidad es que ayuda a construir componentes puros en React. Los datos inmutables pueden determinar fácilmente si se han realizado cambios, lo que ayuda a determinar cuándo un componente requiere una nueva renderización.
+
+ https://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/
 
  ### 2. Composition vs Inheritance
  React tiene un potente modelo de composición, y recomendamos utilizar la composición en lugar de la herencia para reutilizar el código entre los componentes.
