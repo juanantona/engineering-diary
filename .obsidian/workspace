@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - React/React Fundamentals.md",
+            "file": "Roadmap.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - React/React Fundamentals.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "632088e147d0d063",
   "lastOpenFiles": [
-    "R - React/React Fundamentals.md",
+    "Roadmap.md",
+    "R - JS/Typescript.md",
+    "R - Tech/Typescript.md",
     "R - React/Path.md",
-    "A - Productivity/Tools.md",
-    "Weekly/2022-W03 React First Steps.md",
-    "R - To Look Forward/Serverless.md",
-    "A - Productivity/Resources.md",
-    "R - Tech/JS.md",
-    "R - To Look Forward/Remix.md",
-    "R - Leadership/Leadership-resources.md",
-    "Weekly/2022-W02 Measuring Engineering Productivity.md"
+    "R - React/Resources.md",
+    "R - React/React Fundamentals.md",
+    "Topics.md",
+    "R - Tech/Browsers.md",
+    "A - Learning Path/Learning-path.md",
+    "A - Productivity/Tools.md"
   ]
 }
