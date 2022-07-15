@@ -1,0 +1,2 @@
+- [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+- [Web Browser Engineering](https://browser.engineering/)

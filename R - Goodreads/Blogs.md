@@ -1,0 +1,3 @@
+- https://blog.pragmaticengineer.com/
+- https://producthackers.com/es/blog/the-pragmatic-programmer
+- 

@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "a4ceacf03a37dfdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eafb92d69282673",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4e8c08d68eadd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2407ff83e98d758a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d788afe4bfb36b46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44c93bd6ed539129",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#1on1s",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad5197265746a659",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "ad5e05565a83594d",
+    "type": "split",
+    "children": [
+      {
+        "id": "34a033c9cbee1b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0f73fb21b83cbe6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f458006d21ea7b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "active": "d788afe4bfb36b46",
+  "lastOpenFiles": [
+    "README.md",
+    "R - Goodreads/Blogs.md",
+    "R - Stay tuned/Tools.md",
+    "R - Stay tuned/Remix.md",
+    "R - Stay tuned/Serverless.md",
+    "R - Stay tuned/Relay.md",
+    "Topics.md",
+    "2022 - Roadmap.md",
+    "R - React/2022-W03 React First Steps.md",
+    "R - Tech/Ramda.md"
+  ]
+}
