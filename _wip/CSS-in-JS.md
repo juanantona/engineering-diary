@@ -1,5 +1,5 @@
-TAGS: #css
-URL: https://dev.to/alexsergey/css-modules-vs-css-in-js-who-wins-3n25
+TAGS: #css  
+URL: https://dev.to/alexsergey/css-modules-vs-css-in-js-who-wins-3n25  
 
 The CSS Modules approach wins, since the build system doesn't add something extra to implement it, except for the changed class name. Styled-components due to technical implementation, adds dependency as well as code for runtime handling and styling of.
 

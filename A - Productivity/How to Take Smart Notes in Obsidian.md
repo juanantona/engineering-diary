@@ -1,5 +1,5 @@
-TAGS: #note-taking #processed-note
-URL: https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian?s=r
+TAGS: #note-taking #processed-note  
+URL: https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian?s=r  
 
 ---
 

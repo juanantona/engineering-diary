@@ -1,1 +1,5 @@
 _personal
+.obsidian
+# https://github.com/denolehov/obsidian-git/wiki/Tips-and-Tricks#gitignore
+.trash/
+.DS_Store/

@@ -1,7 +1,7 @@
-TAGS: 
-TITLE: Introducción a TypeScript con ReactJS
-URL: https://softwarecrafters.io/typescript/introduccion-typescript-react
-AUTHOR:
+TAGS:  
+TITLE: Introducción a TypeScript con ReactJS  
+URL: https://softwarecrafters.io/typescript/introduccion-typescript-react  
+AUTHOR:  
 
 Los lenguajes de **tipado dinámico** son aquellos (como **JavaScript**) donde el intérprete asigna a las variables un tipo durante el tiempo de ejecución basado en su valor en ese momento. 
 
