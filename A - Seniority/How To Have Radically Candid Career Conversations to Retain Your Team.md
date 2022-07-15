@@ -1,5 +1,5 @@
-TAGS: #career
-URL: https://www.radicalcandor.com/how-to-have-career-conversations/
+TAGS: #career  
+URL: https://www.radicalcandor.com/how-to-have-career-conversations/  
 
 - “Some habits of ineffectiveness are rooted in our social conditioning toward quick-fix, short-term thinking.”
 
