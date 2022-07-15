@@ -1,7 +1,6 @@
-[Recommended Learning Path](https://www.reactiflux.com/learning)
+TAGS:
+TITLE: Recommended Learning Path
+URL: https://www.reactiflux.com/learning
+AUTHOR:
 
-### 1. How Web Apps Work
-- [ ] ed
-
-### 2. Javascript
-- [ ] https://javascript.info/
+---

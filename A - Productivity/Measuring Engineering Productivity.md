@@ -1,26 +1,10 @@
-### Eficiencia
+TAGS: #productivity #literature-note
 
-### [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-### Resumen
+---
 
+Title: The 80/20 Principle in Programming
+URL: https://blog.finxter.com/the-80-20-principle-in-programming/
 
-### [How to Become a More Productive Software Engineer (Productivity Tips & Workflows)](https://plan.io/blog/become-a-productive-software-engineer/#develop-feedback-loops-to-know-what-work-brings-the-biggest-results)
-
-
-### [SOFTWARE DEVELOPMENT, THE PARETO PRINCIPLE, AND THE 80% SOLUTION](https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution)
-
-### Resumen
-Puntos previos a tener en cuenta:
-- Los ingenieros muchas veces emplean demasiado tiempo en algo solo por el hecho de que les parece interesante
-- Los ingenieros intentan pensar a largo plazo cuando en ocasiones la funcionalidad no lo requiere porque simplemente se quiere probar algo 
-- Muchas veces los PM desconocen la implicación técnica de una funcionalidad y empujan a crear funcionalidades que implican un consumo excesivo de recursos
-- En general todo el mundo es deficiente en cuanto a comunicación 
-- Siempre es más seguro hacer sobre ingeniería que no hacerla
-- En general los ingenieros no son conscientes del coste para la empresa de los desarrollos
-
-
-### [The 80/20 Principle in Programming](https://blog.finxter.com/the-80-20-principle-in-programming/)
-### Resumen
 - Necesitas encontrar las metricas apropiadas que tienes que mejorar para aumentar tu productividad
 - Una vez identificadas, ser más perezoso (menos perfecionista) en el resto de tareas, en lugar de ser aprendiz de mucho y maestro de nada.
 - En programación los resultados están mucho más sesgados hacia arriba que en la mayoría de los otros campos. Es más 90/10. ¿Por qué?:
@@ -31,19 +15,39 @@ Puntos previos a tener en cuenta:
 - Es iportante buscar las métricas correctas porque de otro modo estarás esclavizado por aquellas que no son importantes 
 - Incluso un pequeño aumento de la productividad puede traducirse en un gran incremento de los resultados
 
+---
 
-### [We could say **productivity is more of a means to an end – performance.**](https://medium.com/oreillymedia/measuring-engineering-productivity-a6da8605ffae) 
+Title: The SPACE of Developer Productivity
+URL: https://queue.acm.org/detail.cfm?id=3454124
 
-### [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
-
-- Un desarrollador que optimiza sólo para su propia productividad personal puede perjudicar la productividad del equipo
+Un desarrollador que optimiza sólo para su propia productividad personal puede perjudicar la productividad del equipo
 - Las actividades más centradas en el equipo, como las revisiones de código, y el desarrollo y la gestión de sistemas de ingeniería, ayudan a mantener la calidad de la base de código y del producto/servicio.
 - Es fundamental encontrar el equilibrio adecuado para optimizar la productividad individual, del equipo y de la organización, así como comprender las posibles compensaciones.
 
-### [Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) by Eric Elliot
+---
 
+Title: Effective Engineer - Notes
+URL: https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
 
-### TOOLS FOR AUTOMATING METRICS
+---
+
+Title: We could say **productivity is more of a means to an end – performance.**
+URL: https://medium.com/oreillymedia/measuring-engineering-productivity-a6da8605ffae
+
+---
+
+Title: Assessing Employee Performance
+URL: https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a
+Author: Eric Elliot
+
+---
+
+Title: How to Become a More Productive Software Engineer
+URL: https://plan.io/blog/become-a-productive-software-engineer/#develop-feedback-loops-to-know-what-work-brings-the-biggest-results
+
+---
+
+#### TOOLS FOR AUTOMATING METRICS
 - Waydev
 - [LinearB](https://linearb.io/) -> [Docs](https://linearb.helpdocs.io/)
 	- Metrics (DORA)

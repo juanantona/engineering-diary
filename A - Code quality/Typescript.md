@@ -1,4 +1,7 @@
-[Introducción a TypeScript con ReactJS](https://softwarecrafters.io/typescript/introduccion-typescript-react)
+TAGS: 
+TITLE: Introducción a TypeScript con ReactJS
+URL: https://softwarecrafters.io/typescript/introduccion-typescript-react
+AUTHOR:
 
 Los lenguajes de **tipado dinámico** son aquellos (como **JavaScript**) donde el intérprete asigna a las variables un tipo durante el tiempo de ejecución basado en su valor en ese momento. 
 
@@ -10,8 +13,11 @@ Se dice de un lenguaje de programación que usa un tipado estático cuando la co
 **Tipado Dinámico / debil**
 Se dice de un lenguaje de programación que usa un tipado dinámico cuando la comprobación de tipificación se realiza durante su ejecución en vez de durante la compilación. Ejemplos de lenguajes que usan tipado dinámico son [Perl](https://es.wikipedia.org/wiki/Perl "Perl"), [Python](https://es.wikipedia.org/wiki/Python "Python") y [Lisp](https://es.wikipedia.org/wiki/Lisp "Lisp"). Comparado con el tipado estático, o sistema de enlazado temprano, el tipado dinámico es más flexible (debido a las limitaciones teóricas de la [decidibilidad](https://es.wikipedia.org/wiki/Decidibilidad "Decidibilidad") de ciertos problemas de análisis de programas estáticos, que impiden el mismo nivel de flexibilidad que se consigue con el tipado dinámico), a pesar de ejecutarse más lentamente y ser más propensos a contener errores de programación.
 
+---
 
+TITLE: TypeScript Weekly
+URL: https://us14.campaign-archive.com/home?u=809daf9442ece0a92a3d65f99&id=5693c0ed42
 
+- [Third Party Libraries](https://medium.com/@ofir3322/add-your-own-type-definition-to-any-javascript-3rd-party-module-1fc6b11e6f10)
 
-https://us14.campaign-archive.com/home?u=809daf9442ece0a92a3d65f99&id=5693c0ed42
-
+- [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)

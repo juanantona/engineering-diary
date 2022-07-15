@@ -35,5 +35,5 @@ En React, todos los componentes expresan su UI dentro de las funciones de render
 
  suele ser más fácil ir de arriba a abajo, y en los proyectos más grandes, es más fácil ir de abajo a arriba y escribir pruebas a medida que se construye
 
-### 4.Flujo de datos unidirecional 
+### 4. Flujo de datos unidirecional 
  Si haces un cambio en tu modelo de datos subyacente y llamas a ReactDOM.render() de nuevo, la UI se actualizará. Puedes ver cómo se actualiza tu UI y dónde hacer los cambios. El flujo de datos unidireccional de React (también llamado one-way binding) mantiene todo modular y rápido.

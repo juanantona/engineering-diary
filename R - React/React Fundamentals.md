@@ -50,6 +50,9 @@ Las clases también presentan problemas para las herramientas actuales. Por ejem
 ### UseState
 Post de Kent C. Dodds donde se recomienda restringir el numero de variables de estado haciendo que las otras dependan de ellas: [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it)
 
+Better Avoid Props In Initial State
+
+useState hook initializes the state only once - when the component is rendered and is not able to capture further changes in the initialValue prop.
 
 ### useRef
 https://opinionatedreact.com/useRef.pdf

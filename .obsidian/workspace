@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "632088e147d0d063",
+        "id": "4eafb92d69282673",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roadmap.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1on1s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ad5197265746a659",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
     "id": "ad5e05565a83594d",
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,24 +87,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1f458006d21ea7b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
-  "active": "632088e147d0d063",
+  "active": "d788afe4bfb36b46",
   "lastOpenFiles": [
-    "Roadmap.md",
-    "R - JS/Typescript.md",
-    "R - Tech/Typescript.md",
-    "R - React/Path.md",
-    "R - React/Resources.md",
-    "R - React/React Fundamentals.md",
+    "README.md",
+    "R - Goodreads/Blogs.md",
+    "R - Stay tuned/Tools.md",
+    "R - Stay tuned/Remix.md",
+    "R - Stay tuned/Serverless.md",
+    "R - Stay tuned/Relay.md",
     "Topics.md",
-    "R - Tech/Browsers.md",
-    "A - Learning Path/Learning-path.md",
-    "A - Productivity/Tools.md"
+    "2022 - Roadmap.md",
+    "R - React/2022-W03 React First Steps.md",
+    "R - Tech/Ramda.md"
   ]
 }

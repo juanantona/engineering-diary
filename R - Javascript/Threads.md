@@ -1,0 +1,1 @@
+let’s play a game. you ask me a javascript/programming question (something generic, not “help me with my project”), i try to answer/explain it in a single tweet. let’s go: https://twitter.com/dan_abramov/status/1492880870499360769

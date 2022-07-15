@@ -42,7 +42,7 @@ Error handling: Bugsnag / DataDog
 Jamstack / Serverless
 
 ## Productividad
-[[2022-W02 Measuring Engineering Productivity]]
+[[Measuring Engineering Productivity]]
 
 
 
