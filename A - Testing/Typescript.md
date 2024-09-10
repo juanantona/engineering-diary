@@ -1,3 +1,9 @@
+THREADS:  
+https://twitter.com/mattpocockuk/status/1509964736275927042
+
+---
+
+
 TAGS:  
 TITLE: Introducción a TypeScript con ReactJS  
 URL: https://softwarecrafters.io/typescript/introduccion-typescript-react  

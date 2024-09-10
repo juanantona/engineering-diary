@@ -8,3 +8,9 @@ URL: https://www.radicalcandor.com/effective-one-on-ones/
 
 ---
 
+Tener el ownership de los 1on1s me ayuda a utilizar este tiempo para mi propia mejora personal, desbloquear cosas, etc.
+
+Prioridades:
+- Corto plazo: cuestiones relacionads con el sprint
+- Medio plazo: aspectos en los que quiero mejorar, crecer
+- Largo plazo: los objetivos del medio plazo deberían estar orientados a la consecución de algún objetivo a más largo plazo 

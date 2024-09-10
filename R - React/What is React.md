@@ -1,5 +1,3 @@
-### ¿Qué he aprendido?
-# REACT
 React es una libreria que permite construir interfaces de usuario dinámicos, tal y como la describe la propia documentación.
 
 ¿Cúeles son sus principales características?
